@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boya Shiva kumar</h1>
 <h3 align="center">Site Reliability Engineering(SRE) | DevOps | Cloud Computing | AWS | Terraform | Kubernetes | Ansible | Monitoring And Alerting | Linux Admin| CI/CD | Git |</h3>
 
- **🚀 Key Expertise: ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda). 
+ *🚀 Key Expertise: ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda). 
  🔧 Automation & IaC: Terraform, Ansible 
  ⚙️ CI/CD: Jenkin, 🐳 Containerization: Docker, Kubernetes
  📊 Monitoring & Logging: Prometheus, Grafana, CloudWatch,Splunk,Hubble, Zenoss. 
