@@ -10,17 +10,21 @@ I’m also well-versed in monitoring tools such as Prometheus and Grafana, enabl
 Currently, I am looking to leverage my expertise in infrastructure automation and cloud technologies to contribute to a dynamic DevOps team that values continuous improvement, scalability, and reliability.
 </p>
 
- **🚀 Key Expertise:** ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda).
- 🔧 Automation & IaC: Terraform, Ansible.
- ⚙️ CI/CD: Jenkin, 🐳 Containerization: Docker, Kubernetes.
- 📊 Monitoring & Logging: Prometheus, Grafana, CloudWatch,Splunk,Hubble, Zenoss.
- 🔍 Version Control & SCM: Git, GIT HUB, SVN. 
- 💻 Scripting & Automation: Shell Scripting,Python.
- 🛢️ Databases: Voldemort DB, NoSQL, Distributed Databases. 
- 👾 Virtualization: Docker, VMware (vSphere, vCenter, ESXi).
- 🛠️ Tools: Carnival, Epic, Neuron, Quip, ServiceNow, PagerDuty.
- 🖥️ Operating Systems: Linux (Red hat, Oracle), Windows, ESXi. 
- 💿 Storage: Pure Flash Array, SAN switches, Filers.
+## 🚀 Key Expertise
+
+- **☁️ Cloud Platforms**: AWS (EC2, S3, EBS, RDS, Lambda)
+- **🔧 Automation & IaC**: Terraform, Ansible
+- **⚙️ CI/CD**: Jenkins
+- **🐳 Containerization**: Docker, Kubernetes
+- **📊 Monitoring & Logging**: Prometheus, Grafana, CloudWatch, Splunk, Hubble, Zenoss
+- **🔍 Version Control & SCM**: Git, GitHub, SVN
+- **💻 Scripting & Automation**: Shell Scripting, Python
+- **🛢️ Databases**: Voldemort DB, NoSQL, Distributed Databases
+- **👾 Virtualization**: Docker, VMware (vSphere, vCenter, ESXi)
+- **🛠️ Tools**: Carnival, Epic, Neuron, Quip, ServiceNow, PagerDuty
+- **🖥️ Operating Systems**: Linux (Red Hat, Oracle), Windows, ESXi
+- **💿 Storage**: Pure Flash Array, SAN switches, Filers
+
 
 - 📫 How to reach me **boyashivakumar23@gmail.com**
 
