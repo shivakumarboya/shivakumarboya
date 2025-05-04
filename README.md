@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boya Shiva kumar</h1>
 <h3 align="center">Site Reliability Engineering(SRE) | DevOps | Cloud Computing | AWS | Terraform | Kubernetes | Ansible | Monitoring And Alerting | Linux Admin| CI/CD | Git |</h3>
-<img align="right" alt="Coding" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
+<img align="right" alt="Coding" width="100" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
 
 
 Hi, I’m Shiva kumar, a passionate DevOps/DevSecOps Engineer experience in driving seamless automation, optimizing cloud infrastructures,As an experienced Site Reliability Engineer (SRE) with over 3+ years of hands-on expertise, I specialize in building and maintaining highly reliable, scalable, and efficient systems. My passion lies in bridging the gap between software engineering and operations.
