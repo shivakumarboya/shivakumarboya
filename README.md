@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Boya Shiva kumar</h1>
 <h3 align="center">Site Reliability Engineering(SRE) | DevOps | Cloud Computing | AWS | Terraform | Kubernetes | Ansible | Monitoring And Alerting | Linux Admin| CI/CD | Git |</h3>
 
-- 💬 Ask me about **🚀 Key Expertise: ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda). 🔧 Automation & IaC: Terraform, Ansible ⚙️ CI/CD: Jenkin, 🐳 Containerization: Docker, Kubernetes 📊 Monitoring & Logging: Prometheus, Grafana, CloudWatch,Splunk,Hubble, Zenoss. 🔍 Version Control & SCM: Git, GIT HUB, SVN 💻 Scripting & Automation: Shell Scripting,Python 🛢️ Databases: Voldemort DB, MySQL, NoSQL, Distributed Databases. 👾 Virtualization: Docker, VMware (vSphere, vCenter, ESXi). 🛠️ Tools: Carnival, Epic, Neuron, Quip, ServiceNow, PagerDuty. 🖥️ Operating Systems: Linux (Red hat, Oracle), Windows, ESXi. 💿 Storage: Pure Flash Array, SAN switches, Filers.**
+ **🚀 Key Expertise: ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda). 
+ 🔧 Automation & IaC: Terraform, Ansible 
+ ⚙️ CI/CD: Jenkin, 🐳 Containerization: Docker, Kubernetes
+ 📊 Monitoring & Logging: Prometheus, Grafana, CloudWatch,Splunk,Hubble, Zenoss. 
+ 🔍 Version Control & SCM: Git, GIT HUB, SVN 
+ 💻 Scripting & Automation: Shell Scripting,Python 
+ 🛢️ Databases: Voldemort DB, NoSQL, Distributed Databases. 
+ 👾 Virtualization: Docker, VMware (vSphere, vCenter, ESXi). 
+ 🛠️ Tools: Carnival, Epic, Neuron, Quip, ServiceNow, PagerDuty. 
+ 🖥️ Operating Systems: Linux (Red hat, Oracle), Windows, ESXi. 
+ 💿 Storage: Pure Flash Array, SAN switches, Filers.**
 
 - 📫 How to reach me **boyashivakumar23@gmail.com**
 
