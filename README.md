@@ -10,7 +10,7 @@ I’m also well-versed in monitoring tools such as Prometheus and Grafana, enabl
 Currently, I am looking to leverage my expertise in infrastructure automation and cloud technologies to contribute to a dynamic DevOps team that values continuous improvement, scalability, and reliability.
 </p>
 
- 🚀 Key Expertise: ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda).
+ **🚀 Key Expertise:** ☁️ Cloud Platforms: AWS (EC2, S3, EBS, RDS, Lambda).
  🔧 Automation & IaC: Terraform, Ansible.
  ⚙️ CI/CD: Jenkin, 🐳 Containerization: Docker, Kubernetes.
  📊 Monitoring & Logging: Prometheus, Grafana, CloudWatch,Splunk,Hubble, Zenoss.
