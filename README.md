@@ -2,7 +2,7 @@
 <h3 align="center">Site Reliability Engineering(SRE) | DevOps | Cloud Computing | AWS | Terraform | Kubernetes | Ansible | Monitoring And Alerting | Linux Admin| CI/CD | Git |</h3>
 <img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
 
-<p text-align="right" display="flex"> 
+<p text-align="left" display="flex"> 
 Hi, I’m Shiva kumar, a passionate DevOpsEngineer experience in driving seamless automation, optimizing cloud infrastructures,As an experienced Site Reliability Engineer (SRE) with over 4 years of hands-on expertise, I specialize in building and maintaining highly reliable, scalable, and efficient systems. My passion lies in bridging the gap between software engineering and operations.
 Ensuring seamless deployment, continuous integration, and high availability for mission-critical applications.
 I specialize in automating infrastructure, optimizing system performance, and deploying scalable cloud solutions, with a strong focus on AWS and Linux environments.
@@ -19,7 +19,7 @@ Currently, I am looking to leverage my expertise in infrastructure automation an
 - **📊 Monitoring & Logging**: Prometheus, Grafana, CloudWatch, Splunk, Hubble, Zenoss
 - **🔍 Version Control & SCM**: Git, GitHub, SVN
 - **💻 Scripting & Automation**: Shell Scripting, Python
-- **🛢️ Databases**: Voldemort DB, NoSQL, Distributed Databases
+- **🛢️ Databases**:NoSQL, Distributed Databases.
 - **👾 Virtualization**: Docker, VMware (vSphere, vCenter, ESXi)
 - **🛠️ Tools**: Carnival, Epic, Neuron, Quip, ServiceNow, PagerDuty
 - **🖥️ Operating Systems**: Linux (Red Hat, Oracle), Windows, ESXi
