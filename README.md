@@ -3,11 +3,10 @@
 <img align="right" alt="Coding" width="300" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052457/DevOps-Steps-1-min.gif">
 
 <p text-align="left" display="flex"> 
-Hi, I’m Shiva kumar, a passionate DevOpsEngineer experience in driving seamless automation, optimizing cloud infrastructures,As an experienced Site Reliability Engineer (SRE) with over 4 years of hands-on expertise, I specialize in building and maintaining highly reliable, scalable, and efficient systems. My passion lies in bridging the gap between software engineering and operations.
-Ensuring seamless deployment, continuous integration, and high availability for mission-critical applications.
-I specialize in automating infrastructure, optimizing system performance, and deploying scalable cloud solutions, with a strong focus on AWS and Linux environments.
-I’m also well-versed in monitoring tools such as Prometheus and Grafana, enabling proactive detection of issues and performance bottlenecks.
-Currently, I am looking to leverage my expertise in infrastructure automation and cloud technologies to contribute to a dynamic DevOps team that values continuous improvement, scalability, and reliability.
+👋 Hi, I’m Shiva Kumar – a passionate DevOps & Site Reliability Engineer with 4+ years of experience in automating infrastructure, optimizing cloud environments, and ensuring high system reliability.
+🚀 Skilled in AWS, Linux, CI/CD, Terraform, Docker, Kubernetes, and monitoring with Prometheus & Grafana.
+💡 I thrive on building scalable, resilient systems and bridging the gap between development and operations.
+📌 Seeking to contribute to innovative DevOps teams focused on automation, scalability, and continuous improvement.
 </p>
 
 ## 🚀 Key Expertise
