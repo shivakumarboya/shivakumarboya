@@ -4,6 +4,7 @@
 
 <p text-align="left" display="flex"> 
 I’m Shiva Kumar – a passionate DevOps & Site Reliability Engineer with 4 years of experience in automating infrastructure, optimizing cloud environments, and ensuring high system reliability.
+  
 🚀 Skilled in AWS, Linux, CI/CD, Terraform, Docker, Kubernetes, and monitoring with Prometheus & Grafana.
 💡 I thrive on building scalable, resilient systems and bridging the gap between development and operations.
 📌 Seeking to contribute to innovative DevOps teams focused on automation, scalability, and continuous improvement.
